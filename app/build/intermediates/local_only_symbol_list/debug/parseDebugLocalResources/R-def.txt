@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+id analyzeButton
+id calculateRatioButton
+id captureButton
+id drivenGearTeeth
+id driverGearTeeth
+id imageView
+id ratioResultText
+id resultText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round

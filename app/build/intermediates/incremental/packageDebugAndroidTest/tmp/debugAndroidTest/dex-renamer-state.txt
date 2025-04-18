@@ -1,0 +1,4 @@
+#Fri Apr 18 08:16:09 EDT 2025
+base.0=C\:\\Users\\rcunningham\\Desktop\\GearCountAI\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
